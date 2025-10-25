@@ -86,7 +86,7 @@ export default function Portfolio() {
         <div className="text-center z-10 px-6">
           <div className="mb-6 opacity-0 animate-fadeIn" style={{ animationDelay: '0.2s', animationFillMode: 'forwards' }}>
             <h1 className="text-6xl md:text-8xl font-bold mb-4 tracking-tight" style={{ fontFamily: 'Nexmod, sans-serif' }}>
-              bogdicn
+              b o g d i c n
             </h1>
             <div className="text-xl md:text-2xl text-[#aaaaaa] mb-2">
               Website Builder & Developer
