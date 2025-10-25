@@ -3,6 +3,13 @@
   \*************************************************************************************************************************************************************************************************************************************************************/
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
+@font-face {
+  font-family: 'Nexmod';
+  src: url('https://www.1001fonts.com/download/font/nexmod.regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /*
 ! tailwindcss v3.3.3 | MIT License | https://tailwindcss.com
 */
