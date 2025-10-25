@@ -2,9 +2,10 @@
 
 @font-face {
   font-family: 'Nexmod';
-  src: url('https://www.1001fonts.com/download/font/nexmod.regular.ttf') format('truetype');
+  src: url('/fonts/nexmod.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 @tailwind base;
